@@ -15,4 +15,4 @@ Welcome to my academic portfolio for (Essential Tooling for Programmers CEP146)
 - [] Collaborate on group projects
 
 ##Projects 
-*This section will be updated as I complete the assignments
+*This section will be updated as I complete the assignments*
