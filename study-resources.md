@@ -1,1 +1,3 @@
-**This text is bold**
+#Study resources
+##Useful websites
+- GitHub Docs - https://docs.github.com/
