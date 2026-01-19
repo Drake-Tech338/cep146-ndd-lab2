@@ -10,3 +10,10 @@
 - I prefer using google docs or MS word
 - The web Browser I prefer using is google chrome
 - I will be using a new note taking method with Otter.ai because that will help me the most
+
+  ## Class schedule
+
+  |  Monday        | Tuesday | Wednesday | Thursday | Friday |
+  |----------------|---------|-----------|----------|--------|
+  | 8:55am IPC SLG |
+  | 11:40am CEP146 |
